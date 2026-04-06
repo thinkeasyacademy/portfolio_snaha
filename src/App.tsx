@@ -157,7 +157,7 @@ export default function App() {
           >
             <div className="aspect-square rounded-3xl overflow-hidden bg-slate-200 shadow-2xl relative z-10">
               <img 
-                src="https://picsum.photos/seed/snahapaul/800/800" 
+                src="/profile.jpg" 
                 alt="Snaha Paul" 
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                 referrerPolicy="no-referrer"
