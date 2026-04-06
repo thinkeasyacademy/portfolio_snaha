@@ -313,7 +313,7 @@ export default function App() {
               >
                 <div className="aspect-video bg-slate-200 relative overflow-hidden">
                   <img 
-                    src={`https://picsum.photos/seed/project${i}/800/450`} 
+                    src={project.link}
                     alt={project.title}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                     referrerPolicy="no-referrer"
