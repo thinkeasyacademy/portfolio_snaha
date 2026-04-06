@@ -159,7 +159,7 @@ export default function App() {
               <img 
                 src="/profile.jpg" 
                 alt="Snaha Paul" 
-                className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
+                className="w-full h-full object-cover transition-all duration-700"
                 referrerPolicy="no-referrer"
               />
             </div>
@@ -285,25 +285,25 @@ export default function App() {
                 title: "IoT Device Monitoring System",
                 desc: "A comprehensive system for real-time monitoring of IoT devices with device-to-cloud communication capabilities.",
                 tech: ["ESP32", "MQTT", "Firebase", "React"],
-                link: "#"
+                link: "/IoT Device Monitoring System.jpg"
               },
               {
                 title: "Sensor-Based Data Collection System",
                 desc: "An automated system designed to collect environmental data using various sensors and log them for analysis.",
                 tech: ["Arduino", "Sensors", "SD Module", "Python"],
-                link: "#"
+                link: "/Sensor-Based Data Collection System.jpg"
               },
               {
                 title: "IoT Dashboard Web Application",
                 desc: "A responsive web dashboard for visualizing real-time sensor data with interactive charts and controls.",
                 tech: ["React", "Chart.js", "WebSockets", "Tailwind"],
-                link: "#"
+                link: "/IoT Dashboard Web Application.jpg"
               },
               {
                 title: "Daily Task Management",
                 desc: "A productivity application for managing daily tasks with priority levels, categories, and progress tracking.",
                 tech: ["React", "LocalStorage", "Tailwind CSS", "Context API"],
-                link: "#"
+                link: "/Daily Task Management.jpg"
               }
             ].map((project, i) => (
               <motion.div 
