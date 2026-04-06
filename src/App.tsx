@@ -496,7 +496,7 @@ export default function App() {
                 </div>
                 <div>
                   <h4 className="text-sm font-bold text-slate-400 uppercase tracking-widest mb-1">Email Me</h4>
-                  <p className="text-xl font-bold text-slate-900">snaha.paul@example.com</p>
+                  <p className="text-xl font-bold text-slate-900">paulsneha370@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-start gap-6">
