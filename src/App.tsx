@@ -505,7 +505,7 @@ export default function App() {
                 </div>
                 <div>
                   <h4 className="text-sm font-bold text-slate-400 uppercase tracking-widest mb-1">Call Me</h4>
-                  <p className="text-xl font-bold text-slate-900">+880 1XXX XXXXXX</p>
+                  <p className="text-xl font-bold text-slate-900">+880 1309610013</p>
                 </div>
               </div>
               <div className="flex items-start gap-6">
